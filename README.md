@@ -1,5 +1,5 @@
 - 👋 Hi, We are @archonsofficial
-- 1st year CSE Students from Lucknow University
+- 2nd year CSE Students from Lucknow University
   
 
 <!---
