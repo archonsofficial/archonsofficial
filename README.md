@@ -1,5 +1,8 @@
-# 💫 About Me:
+# 🤖 About Us:
 A Group of talented Developers ;)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/archonsofficial/count.svg?"  />
+</div>
 
 
 # 💻 Tech Stack:
