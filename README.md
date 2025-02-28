@@ -21,7 +21,7 @@ We are **Team Archons**—a squad of elite devs, designers, and tech warriors wh
 | **Aditya Vardhan Singh** | [aditya-vardhan-singh](https://github.com/aditya-vardhan-singh) | Full-Stack Dev & Explainer | "Architect of both code & chaos—explains tech like a TED talk. 🎤🔥 Boss energy 24/7." |
 | **Amaan Pathan** | [eulerbutcooler](https://github.com/eulerbutcooler) | Backend Dev | "Backend beast. Breaks servers, not a sweat. 🛠️👾" |
 | **Ashmita** | [Ashmita001](https://github.com/Ashmita001) | UI/UX Designer | "Aesthetic designs that hit harder than a plot twist. ✨🎨" |
-| **Ayush** | [ItsAyushRaman](https://github.com/ItsAyushRaman) | Graphic Designer | "Mind-blowing designs that make your CPU hit 100%. 🎨🚀" |
+| **Ayush** | [ItsAyushRaman](https://github.com/ItsAyushRaman) | Graphic Designer | "Mind-blowing designs that make your CPU hit 100%, And perfect match for the meme - "I paid for the whole PC I'll use the whole PC." 🎨🚀" |
 
 ---
 
