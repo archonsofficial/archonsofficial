@@ -14,14 +14,17 @@ We are **Team Archons**—a squad of elite devs, designers, and tech warriors wh
 
 ## 👑 Meet the Legends
 
-| Name  | GitHub | Specialty | Boss Vibes |
-|--------|---------|------------|------------|
-| **Alia Haider** | [ALIA-HAIDER](https://github.com/ALIA-HAIDER) | Frontend Dev | "Turns any design into reality at the speed of light. ⚡💻" |
-| **Mayank Gupta** | [Mayank-704](https://github.com/Mayank-704) | Frontend Dev & Docs Lover | "Frontend always before deadline. Lives by schedules. 📜🔥" |
-| **Aditya Vardhan Singh** | [aditya-vardhan-singh](https://github.com/aditya-vardhan-singh) | Full-Stack Dev & Explainer | "Architect of both code & chaos—explains tech like a TED talk. 🎤🔥 Boss energy 24/7." |
-| **Amaan Pathan** | [eulerbutcooler](https://github.com/eulerbutcooler) | Backend Dev | "Backend beast. Breaks servers, not a sweat. 🛠️👾" |
-| **Ashmita** | [Ashmita001](https://github.com/Ashmita001) | UI/UX Designer | "Aesthetic designs that hit harder than a plot twist. ✨🎨" |
-| **Ayush** | [ItsAyushRaman](https://github.com/ItsAyushRaman) | Graphic Designer | "Mind-blowing designs that make your CPU hit 100%, And perfect match for the meme - "I paid for the whole PC I'll use the whole PC." 🎨🚀" |
+## 👑 Meet the Legends
+
+| Name                                                         | GitHub                                                          | Specialty                  | Boss Vibes                                                                                                                                 |
+| ------------------------------------------------------------ | --------------------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Alia Haider**                                              | [ALIA-HAIDER](https://github.com/ALIA-HAIDER)                   | Frontend Dev               | "Turns any design into reality at the speed of light. ⚡💻"                                                                                 |
+| [**Mayank Gupta**](https://mayankgupta7.tech/)               | [Mayank-704](https://github.com/Mayank-704)                     | Frontend Dev & Docs Lover  | "Frontend always before deadline. Lives by schedules. 📜🔥"                                                                                |
+| [**Aditya Vardhan Singh**](http://www.adityavardhansingh.me) | [aditya-vardhan-singh](https://github.com/aditya-vardhan-singh) | Full-Stack Dev & Explainer | "Architect of both code & chaos—explains tech like a TED talk. 🎤🔥 Boss energy 24/7."                                                     |
+| [**Amaan Pathan**](http://am-pf-nextjs.vercel.app)           | [eulerbutcooler](https://github.com/eulerbutcooler)             | Backend Dev                | "Backend beast. Breaks servers, not a sweat. 🛠️👾"                                                                                        |
+| **Ashmita**                                                  | [Ashmita001](https://github.com/Ashmita001)                     | UI/UX Designer             | "Aesthetic designs that hit harder than a plot twist. ✨🎨"                                                                                 |
+| **Ayush**                                                    | [ItsAyushRaman](https://github.com/ItsAyushRaman)               | Graphic Designer           | "Mind-blowing designs that make your CPU hit 100%, And perfect match for the meme - 'I paid for the whole PC I'll use the whole PC.' 🎨🚀" |
+
 
 ---
 
